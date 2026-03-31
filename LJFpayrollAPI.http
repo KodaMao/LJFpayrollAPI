@@ -1,0 +1,6 @@
+@LJFpayrollAPI_HostAddress = http://localhost:5000
+
+GET {{LJFpayrollAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
